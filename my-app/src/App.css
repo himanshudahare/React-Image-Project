@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+  }
+
+  
+  .btn{
+    margin: 15px 10px;
+    background-color: rgb(21, 21, 52);
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+  } 
+  
